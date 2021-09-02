@@ -1,0 +1,14 @@
+D:\first_Attemp\first_Attemp\bin\Debug\first_Attemp.exe.config
+D:\first_Attemp\first_Attemp\bin\Debug\first_Attemp.exe
+D:\first_Attemp\first_Attemp\bin\Debug\first_Attemp.pdb
+D:\first_Attemp\first_Attemp\obj\Debug\first_Attemp.csprojResolveAssemblyReference.cache
+D:\first_Attemp\first_Attemp\obj\Debug\first_Attemp.Properties.Resources.resources
+D:\first_Attemp\first_Attemp\obj\Debug\first_Attemp.csproj.GenerateResource.Cache
+D:\first_Attemp\first_Attemp\obj\Debug\first_Attemp.exe
+D:\first_Attemp\first_Attemp\obj\Debug\first_Attemp.pdb
+D:\first_Attemp\first_Attemp\obj\Debug\first_Attemp.Log_in.resources
+D:\first_Attemp\first_Attemp\bin\Debug\DB.mdf
+D:\first_Attemp\first_Attemp\bin\Debug\DB_log.ldf
+D:\first_Attemp\first_Attemp\obj\Debug\first_Attemp.Cashier.resources
+D:\first_Attemp\first_Attemp\obj\Debug\first_Attemp.empolyee_Registeration.resources
+D:\first_Attemp\first_Attemp\obj\Debug\first_Attemp.Manager.resources

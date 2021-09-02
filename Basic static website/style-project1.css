@@ -1,0 +1,18 @@
+body{
+		font-family:Arial, sans-serif;
+		background-color:#ACAFB2;
+
+}
+#intro{
+	width:900px;
+	padding:30px;
+	margin:0px auto;
+	background-color:white;
+	font-size:130%;
+}
+p{
+	font-size:70%;
+}
+#bottom{
+	width:1200px;
+}

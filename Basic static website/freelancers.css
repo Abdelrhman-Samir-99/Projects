@@ -1,0 +1,89 @@
+*{
+	margin:0;
+}
+ul li{
+	text-decoration: none;
+}
+
+html,body{
+	height: 100%;
+}
+h1,h2,h3,h4,h5,h6,p {
+	margin-bottom: 20px;
+}
+nav {
+	position: fixed;
+	width: 100%;
+	z-index: 99;
+	height: 50px;
+	background-color: rgba(0,0,0,.5);
+	text-align: center;
+	top: 0;
+
+}
+nav a {
+	text-decoration: none;
+	color: white;
+	margin-left: 30px;
+	line-height: 50px ;
+	font-family: sans-serif,arial;
+
+
+}
+p{
+	font-size:85%;
+	line-height:1.5em;
+	font-family: arial,sans-serif;
+}
+h3{
+	color:Gray;
+}
+h4{
+	color:red;
+}
+.sect{
+	height: 100%;
+	width: 100%;
+	background-attachment: fixed;
+    
+}
+.subsect{
+	height: 100% ;
+	background-color: white;
+	width:900px;
+	padding:0px 5px 0px 5px ;
+	margin:0px auto ;
+	background-color:white;
+	font-size:130%;
+	background-size:contain;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+.sectOne{
+	background-image: url(home2.jpg);
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	opacity: 0.7;
+	height: 50%;
+}
+.sectOne h2{
+	font-family: sans-serif , Arial;
+	text-align: center;
+	color: white;
+	padding-top: 150px ;
+}
+h2{
+	color:green;
+}
+a{
+	text-decoration: none;
+	color: green ;
+}
+.subsect img{
+	margin-left: 40px ;
+	margin-top: 30px;
+
+}
+

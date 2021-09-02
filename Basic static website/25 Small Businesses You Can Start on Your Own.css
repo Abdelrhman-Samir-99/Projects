@@ -1,0 +1,61 @@
+*{
+	margin:0;
+}
+html,body{
+	height: 100%
+}
+/*contain*/
+.subsect{
+	height: 100% ;
+	width: 800px ;
+	margin:0 auto;
+
+}
+.subsect h1{
+	color: gray ;
+	padding-left: 30px;
+
+}
+.subsect h2{
+	color: green ;
+	padding-left: 5px;
+}
+.subsect p{
+	font-family: arial,sans-serif;
+	line-height: 1.5em;
+}
+a {
+	text-decoration: none;
+	color:green;
+}
+nav a{
+	text-decoration: none;
+	color: white ;
+	font-family: arial,sans-serif ;
+}
+nav {
+	position: fixed;
+	width: 100%;
+	z-index: 99;
+	height: 50px;
+	background-color: rgba(0,0,0,.5);
+	text-align: center;
+	top: 0;
+
+}
+/*header*/
+.sect{
+	height: 50%;
+	width: 100%;
+	background-image: url(25work.jpeg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+.sect h2{
+	color: green;
+	text-align: center;
+	margin-right: 20px;
+	font-family: sans-serif,arial;
+	padding-top: 170px ;
+	font-size: 40px ;
+}
