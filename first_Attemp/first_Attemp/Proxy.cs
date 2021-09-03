@@ -23,6 +23,7 @@ namespace first_Attemp
             return true;
         }        
     }
+    
     class Proxy
     {
         public Dictionary < string, string> all_Data;

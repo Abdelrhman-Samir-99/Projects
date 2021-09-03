@@ -60,6 +60,7 @@ namespace first_Attemp
                 composite_Drop.Items.Add(s);
             }
         }
+        
         class Facade
         {
             static generate_Report gen = new generate_Report();
