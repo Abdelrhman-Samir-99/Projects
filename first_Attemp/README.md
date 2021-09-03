@@ -28,3 +28,11 @@
 + The employee data.
 
 ### Database Schema ###
+
+
+
+## ScreenShots ##
+![Cashier Interface](https://raw.githubusercontent.com/SmallCat3699/Projects/master/first_Attemp/ScreenShots/Cashier.jpeg)
+![Employee Register]()
+![Manager](https://raw.githubusercontent.com/SmallCat3699/Projects/master/first_Attemp/ScreenShots/Manager.jpeg)
+![LogIn](https://raw.githubusercontent.com/SmallCat3699/Projects/master/first_Attemp/ScreenShots/LogIn.jpeg)
