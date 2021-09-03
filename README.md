@@ -6,3 +6,6 @@
     + Implemented what I learned that semester in Design patterns.
     + Delivered a simple application but with DB and some OOD (it is not the best, because it was my firs time).
     + Implemented what I learned through the course of Visual Programming.
+## [Basic Static Website](https://github.com/SmallCat3699/Projects/tree/master/Basic%20static%20website#basic-static-website) ##
++ Simple static website I made during my first semester at college.
++ Used only HTML and CSS, but I believe it looks decent.
