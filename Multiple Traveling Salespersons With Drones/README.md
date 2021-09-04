@@ -37,6 +37,9 @@
         + Build Euler tour of that MST.
         + Remove all cycles except of the last one.
     + Implemented a basic Genetic Algorithm to modify the current route.
+    + Genetic Algorithm "Sometimes improve the answer".
+        + ![Screenshot from 2021-09-04 19-55-27](https://user-images.githubusercontent.com/77211992/132104040-352dc78e-92a8-4976-a970-281d542c11d9.png)
+
 + Deciding if the drone should go to customer X or not:
     + For example [1, 2, 3] and we are at customer 1, can the drone go to customer 2 and meet us at customer 3 or not.
 
