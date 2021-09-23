@@ -17,12 +17,12 @@ def distance(city1, city2):
      distance = np.sqrt((xDis ** 2) + (yDis ** 2))
      return distance
 
-df = pd.read_csv("city_locations.csv")[:25]
+df = pd.read_csv("city_locations.csv")[:30]
 x = np.array(df[['Longitude', 'Latitude']])
 starting_pos = 1
 group_count = 1
 drone_limit = 10
-n = 25
+n = 30
 y = kmeans(x, group_count) # Culustered list.
 
 
