@@ -39,10 +39,10 @@
 ![How_To_Order](https://user-images.githubusercontent.com/77211992/134443433-d42a6f96-8d43-4e41-9239-a9f2561a4107.png)
 ![Making_Order](https://user-images.githubusercontent.com/77211992/134443450-177cfe69-f152-4d02-b0c8-fb0be0dbd38f.png)
 
-#### Report by date ####
+#### Report by meal ####
 ![MealReport](https://user-images.githubusercontent.com/77211992/134443461-764b7a83-3e89-4e6e-b3a1-1980891c6929.png)
 
-#### Report by meal ####
+#### Report by date ####
 ![Report_By_Meal](https://user-images.githubusercontent.com/77211992/134443493-9147c52f-cb58-4e20-a1ee-4a7db4b193bb.png)
 
 #### Report of the day ####
