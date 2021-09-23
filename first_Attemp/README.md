@@ -32,7 +32,19 @@
 
 
 ## ScreenShots ##
-![Cashier Interface](https://raw.githubusercontent.com/SmallCat3699/Projects/master/first_Attemp/ScreenShots/Cashier.jpeg)
 ![Employee Register](https://raw.githubusercontent.com/SmallCat3699/Projects/master/first_Attemp/ScreenShots/Register.jpg)
 ![LogIn](https://raw.githubusercontent.com/SmallCat3699/Projects/master/first_Attemp/ScreenShots/LogIn.jpg)
 ![Manager](https://raw.githubusercontent.com/SmallCat3699/Projects/master/first_Attemp/ScreenShots/Manager.jpg)
+#### Making Order ####
+![How_To_Order](https://user-images.githubusercontent.com/77211992/134443433-d42a6f96-8d43-4e41-9239-a9f2561a4107.png)
+![Making_Order](https://user-images.githubusercontent.com/77211992/134443450-177cfe69-f152-4d02-b0c8-fb0be0dbd38f.png)
+
+#### Report by date ####
+![MealReport](https://user-images.githubusercontent.com/77211992/134443461-764b7a83-3e89-4e6e-b3a1-1980891c6929.png)
+
+#### Report by meal ####
+![Report_By_Meal](https://user-images.githubusercontent.com/77211992/134443493-9147c52f-cb58-4e20-a1ee-4a7db4b193bb.png)
+
+#### Report of the day ####
+![Report_Of_The_Day](https://user-images.githubusercontent.com/77211992/134443505-4f30b681-f904-4924-b2da-c8773109faba.png)
+
