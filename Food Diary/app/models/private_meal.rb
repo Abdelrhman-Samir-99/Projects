@@ -1,0 +1,2 @@
+class PrivateMeal < ApplicationRecord
+end

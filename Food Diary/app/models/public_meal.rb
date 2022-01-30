@@ -1,0 +1,2 @@
+class PublicMeal < ApplicationRecord
+end
