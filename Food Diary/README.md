@@ -1,24 +1,18 @@
-# README
+# Food Diary #
+Simple application that help you to keep track of your calories activities.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## System Requirements ##
+### Functional Requirements ###
 
-Things you may want to cover:
 
-* Ruby version
+### Non-Functional Requirements ###
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+## Database (Models) ##
+### Schema ###
+![Schema](https://user-images.githubusercontent.com/77211992/151733862-e47ee67c-bd84-43bd-8a71-1751dad770e9.svg)
