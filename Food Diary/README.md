@@ -5,9 +5,11 @@ Simple application that help you to keep track of your calories activities.
 ### Functional Requirements ###
 + There should be two types of Users (Admin - Client)
 + There should be two types of Meals (Public - Private)
-  + Public meals created only by admins.
-  + Private meals are made by any user.
-  + Private meals are only visible for the creator.
+  + Public meals are:
+    + created only by admins.
+  + Private meals are: 
+    + made by any user.
+    + only visible for the creator.
 + All users can do the following:
   + get all records for a:
     + specific date.
@@ -18,7 +20,7 @@ Simple application that help you to keep track of your calories activities.
     + Type and Calories.
   + know about his exact weight in the past 30 days.
   + Add records.
-+ Admin have all privilage of clients besides:
++ Admin have all privilages of clients besides:
   + Adding public meals
 
 ### Non-Functional Requirements ###
