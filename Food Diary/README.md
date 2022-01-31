@@ -33,5 +33,5 @@ Simple application that help you to keep track of your calories activities.
 ## Database (Models) ##
 ### Schema ###
 <p align="center" width="100%">
-    <img src= "https://github.com/SmallCat3699/Projects/blob/master/Food%20Diary/Documentation/Database/Schema.svg"> 
+    <img src= "https://github.com/SmallCat3699/Projects/blob/master/Food%20Diary/Documentation/Database/Schema.svg> 
 </p>
