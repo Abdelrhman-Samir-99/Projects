@@ -7,6 +7,7 @@ Simple application that help you to keep track of your calories activities.
 + There should be two types of Meals (Public - Private)
   + Public meals are:
     + created only by admins.
+    + visible to all users.
   + Private meals are: 
     + made by any user.
     + only visible for the creator.
@@ -20,7 +21,7 @@ Simple application that help you to keep track of your calories activities.
     + Type and Calories.
   + know about his exact weight in the past 30 days.
   + Add records.
-+ Admin have all privilages of clients besides:
++ Admin have all privilages of the client besides:
   + Adding public meals
 
 ### Non-Functional Requirements ###
