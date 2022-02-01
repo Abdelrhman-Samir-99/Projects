@@ -14,12 +14,12 @@
 + This project is just to prove that I had some experience even writing a bad thing, there is a much better version of it which can be found [here](https://github.com/Abdelrhman-Samir-99/Projects/tree/master/Food%20Diary).
 + A basic restaurant system with some features for generating reports for the manager.
 + I saw this academic project as a chance to learn more about design patterns.
-+ Made a very basic visualization for part of the solution.
 + Developed using C# and SQL.
 ### [Multiple Traveling Salespersons With Drones](https://github.com/Abdelrhman-Samir-99/Projects/tree/master/Multiple%20Traveling%20Salespersons%20With%20Drones) ###
 + Console application that gives an approximated path to deliver packages to customers using drones and vehicles.
 + Saw it as a chance to learn more about Genetic algorithms and Clustering algorithms like (K-Means - hierarchical clustering - KNN)
 + Implemented a fixed approximation heuristic (2-Approximation).
++ Made a very basic visualization for part of the solution.
 + Developed it using Python.
 ### [Basic Static Website](https://github.com/SmallCat3699/Projects/tree/master/Basic%20static%20website#basic-static-website) ###
 + Simple static website I made during my first semester at college.
