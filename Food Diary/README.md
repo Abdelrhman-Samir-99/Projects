@@ -10,7 +10,9 @@ Simple application that help you to keep track of your calories activities.
     + visible to all users.
   + Private meals are: 
     + made by any user.
-    + only visible for the creator.
+    + only visible to the creator.
++ Every meal should consist of ingredients.
+  + Every ingredient is considered a meal.
 + All users can do the following:
   + get all records for a:
     + specific date.
@@ -19,8 +21,9 @@ Simple application that help you to keep track of your calories activities.
     + Type.
     + Calories.
     + Type and Calories.
+  + add new record:
+    + record can consist of multiple meals.
   + know about his exact weight in the past 30 days.
-  + Add records.
 + Admin have all privilages of the client besides:
   + Adding public meals
 
