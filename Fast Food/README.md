@@ -1,18 +1,35 @@
-# Restaurant system (Windows Form Application) #
-### This project is just to prove that I had some experience even writing a bad thing, there is a much better version of it which can be found [HERE](https://github.com/Abdelrhman-Samir-99/Projects/tree/master/Food%20Diary). ###
-##### Application for a cashier to make an order and for the manager to keep track of the employee's activities, Also generate some basic type of reports, it was for an academic course. #####
-##### It is not written in clean code since I didn't have much experience at that time. #####
-##### Implemented what I learned in software development & visual programming courses. #####
+# Fast Food #
+This project is just to prove that I had some experience even writing a bad thing, there is a much better version of it which can be found [here](https://github.com/Abdelrhman-Samir-99/Projects/tree/master/Food%20Diary). <br/>
+A basic resturant system with some features for generating reports used by the manger. <br/>
+I saw this academic project as a chance to learn more about design patterns.<br/>
+
+## Functional Requirements ##
+There are two entities in the project which are (Manager - Cashier).
++ Cashier can do the following:
+    + Make an order.
+    + Check his logs for today.
++   Manager can do the following:
+    + He can delete a specific order.   
+    + He can controll meals:
+        + adding a meal.
+        + removing a meal.
+    + He also controllshis employees:
+        + Adding new employee.
+        + Removing existing employee.
+    + He can generate basic type of reports:
+        + He can query all orders in a specific time (day or month or year)
+        + He can also query the database using a meal name.
 
 ## Design Patterns ##
 + Singleton
     + To make sure that I make only one connection to the database.
 + Proxy
-    + Any time I access the database (adding a layer of security).
+    + It was just another layer of security, instead of accessing the database directly.
 + Iterator
-    + To iterate over the dictionaries we bring from the database. 
+    + I was caching the data in the client side, in sort of complex dictionaries.
+    + I used iterator pattern to interact with these complex dictionaries. 
 + Builder
-    + To construct the whole order.
+    + To construct the whole order:
         + Adding or increasing the count of a specific meal.
         + Deleting the current order or part of it.
         + Editing the current order.
@@ -22,15 +39,10 @@
     + To make it easier to deal with the whole system (interacting with different objects).
 
 ## Database ##
-### I used SQL server to save: ###
-+ The meals we had.
-+ The orders for all time.
-+ The employee data.
-
-### Database Schema ###
-
-
-
+### Schema ###
+<p align = "center" width = "100%">
+    <img src= "https://github.com/Abdelrhman-Samir-99/Projects/blob/master/Fast%20Food/ScreenShots/fb75eabc-9682-4eb2-9985-d1eff47a2cc3.jpg"> 
+</p>
 ## ScreenShots ##
 
 <p align="center" width="100%">
