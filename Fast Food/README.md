@@ -40,7 +40,7 @@ There are two entities in the project which are (Manager - Cashier).
 ## Database ##
 ### Schema ###
 <p align = "center" width = "100%">
-    <img src= "https://github.com/Abdelrhman-Samir-99/Projects/blob/master/Fast%20Food/ScreenShots/fb75eabc-9682-4eb2-9985-d1eff47a2cc3.jpg"> 
+    <img src= "https://github.com/Abdelrhman-Samir-99/Projects/blob/master/Fast%20Food/ScreenShots/Schema.jpg"> 
 </p>
 <br/>
 
