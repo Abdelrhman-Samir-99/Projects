@@ -1,5 +1,5 @@
 # Restaurant system (Windows Form Application) #
-### This project is just to prove that I had some experience even writing a bad thing, there is a much better version of it which can be found [HERE](). ###
+### This project is just to prove that I had some experience even writing a bad thing, there is a much better version of it which can be found [HERE](https://github.com/Abdelrhman-Samir-99/Projects/tree/master/Food%20Diary). ###
 ##### Application for a cashier to make an order and for the manager to keep track of the employee's activities, Also generate some basic type of reports, it was for an academic course. #####
 ##### It is not written in clean code since I didn't have much experience at that time. #####
 ##### Implemented what I learned in software development & visual programming courses. #####
