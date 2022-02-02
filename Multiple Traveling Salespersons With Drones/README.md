@@ -1,14 +1,14 @@
-# Multiple Traveling Salespersons With Drones #
-Simple console application which gives us an approximated path which we can use our (vehicles & drones) to deliver packages and saving resources.
+1# Multiple Traveling Salespersons With Drones #
+Simple console application which gives us an approximated path which we can use our (vehicles & drones) to deliver packages and save resources.
 
 ## The problem statement: ##
-We have a number of customers that we would like to deliver products for them, we should find the minimum total time to do that using specific number of vehicles and drones. <br/>
+We have a number of customers that we would like to deliver products for them, we should find the minimum total time to do that using a specific number of vehicles and drones. <br/>
 We have 3 entities, which are (Customer - Vehicle - Drone).
 
 ## Problem Constraints ##
 + Constraints on the Customers:
     + There is any number of customers.
-    + Not allowed to visit same customer twice.
+    + Not allowed to visit the same customer twice.
 + Constraints on the vehicles:
     + We have exactly N vehicles.
     + Each vehicle has at most one drone.
@@ -17,16 +17,16 @@ We have 3 entities, which are (Customer - Vehicle - Drone).
     + The drone can lift at most one item.
     + The drone can lift any kind of product.
     + The drone will always return/leave the vehicle at a customer.
-    + There is battery limits on the drone.
+    + There are battery limits on the drone.
 + Neglecting the weather.
 
 ## Suggested Solution ##
-Divided the problem into smaller sub-problems then we can merge these solutions. 
+Divided the problem into smaller sub-problems, then we can merge these solutions. 
 + Clustering the customers into **N** clusters where:
     + **N** is the number of vehicles.
-    + Every customer exist in one and only one cluster.
+    + Every customer exists in one and only one cluster.
 + Considering using only the vehicles (like the famous TSP problem)
-    + Implemented 2-Approximation heuristic for large number of cities.
+    + Implemented 2-Approximation heuristic for a large number of customers.
     + Used genetic algorithms to optimize the solution of the heuristic.
 + Using the drone on the approximated path of the previous step
     + Followed a constructive manner
@@ -42,10 +42,10 @@ Divided the problem into smaller sub-problems then we can merge these solutions.
     + Using Kruskal algorithm + Disjoint And Union set (DSU).
 + Build Euler tour of that MST:
     + Depth First Search.
-    + Remove all cycles except of the last one.
+    + Remove all cycles except the last one.
 ### Genetic Algorithm ###
 + Implemented a basic Genetic Algorithm to modify the current route.
-+ Genetic Algorithm **Sometimes** improve the answer.
++ Genetic Algorithm **Sometimes** improves the answer.
     + ![Screenshot from 2021-09-04 19-55-42](https://user-images.githubusercontent.com/77211992/132104064-990b0e37-3046-44cd-835c-3d74e988c8d1.png)
     + ![Screenshot from 2021-09-04 19-55-27](https://user-images.githubusercontent.com/77211992/132104040-352dc78e-92a8-4976-a970-281d542c11d9.png)
     + Initial distance is the result of the 2-Approximation.
