@@ -1,4 +1,4 @@
-1# Multiple Traveling Salespersons With Drones #
+# Multiple Traveling Salespersons With Drones #
 Simple console application which gives us an approximated path which we can use our (vehicles & drones) to deliver packages and save resources.
 
 ## The problem statement: ##
