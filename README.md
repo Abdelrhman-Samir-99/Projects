@@ -12,7 +12,6 @@
 + Documented every component in the system in a clean manner.
 + Developed using Ruby on Rails.
 ### [Fast Food](https://github.com/Abdelrhman-Samir-99/Projects/tree/master/Fast%20Food) <hr/> ###
-// Why not link the better version directly ?
 + A much better version of this can be found [here](https://github.com/Abdelrhman-Samir-99/Projects/tree/master/Food%20Diary).
 + A basic restaurant system with some features for generating reports for the manager.
 + I saw this academic project as a chance to learn more about design patterns.
@@ -24,8 +23,8 @@
 + Made a very basic visualization for part of the solution.
 + Developed it using Python.
 ### [Basic Static Website](https://github.com/SmallCat3699/Projects/tree/master/Basic%20static%20website#basic-static-website) <hr/> ###
-// Add a brief about the project, the theme or the purpose of it.
-+ Simple static website I made during my first semester at college.
++ A simple static blog about freelance.
++ Created during my first semester at college.
 + Used only HTML and CSS.
 ### [TCP/IP implementation.](https://github.com/SmallCat3699/Projects/tree/master/TCP%20(sorting%20and%20searching)#simple-console-apllication-which-has-2-sides-server-and-client) <hr/> ###
 + Simple console application which consists of two entities (server - client) using TCP/IP protocol.
