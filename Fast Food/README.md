@@ -57,7 +57,7 @@ There are two entities in the project which are (Manager - Cashier).
     <img src= "https://github.com/Abdelrhman-Samir-99/Projects/blob/master/Fast%20Food/ScreenShots/Manager.jpg"> 
 </p>
 
-### Making Order ###
+## Making Order ##
 
 <p align="center" width="100%">
     <img src= "https://user-images.githubusercontent.com/77211992/134443433-d42a6f96-8d43-4e41-9239-a9f2561a4107.png"> 
@@ -66,19 +66,19 @@ There are two entities in the project which are (Manager - Cashier).
 
 
 
-### Report by meal ###
+## Report by meal ##
 
 <p align="center" width="100%">
     <img src= "https://user-images.githubusercontent.com/77211992/134443461-764b7a83-3e89-4e6e-b3a1-1980891c6929.png"> 
 </p>
 
-### Report by date ###
+## Report by date ##
 
 <p align="center" width="100%">
     <img src= "https://user-images.githubusercontent.com/77211992/134443493-9147c52f-cb58-4e20-a1ee-4a7db4b193bb.png"> 
 </p>
 
-### Report of the day ###
+## Report of the day ##
 <p align="center" width="100%">
     <img src= "https://user-images.githubusercontent.com/77211992/134443505-4f30b681-f904-4924-b2da-c8773109faba.png"> 
 </p>
