@@ -22,7 +22,7 @@
 + Implemented a fixed approximation heuristic (2-Approximation).
 + Made a very basic visualization for part of the solution.
 + Developed it using Python.
-### [Basic Static Website](https://github.com/SmallCat3699/Projects/tree/master/Basic%20static%20website#basic-static-website) <hr/> ###
+### [Static Blog](https://github.com/SmallCat3699/Projects/tree/master/Basic%20static%20website#basic-static-website) <hr/> ###
 + A simple static blog about freelance.
 + Created during my first semester at college.
 + Used only HTML and CSS.
