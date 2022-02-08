@@ -39,5 +39,5 @@ Simple application that help you to keep track of your calories activities.
 ## Database (Models) ##
 
 ### Schema ###
-![Schema](https://user-images.githubusercontent.com/77211992/151934290-ca1871a7-d5b5-48b6-8f0b-6959bec90caa.svg)
+![Schema](https://user-images.githubusercontent.com/77211992/153081227-d9de4d91-bae4-4ab6-a311-8ba7c9e231f8.svg)
 
