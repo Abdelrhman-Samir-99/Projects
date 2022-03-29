@@ -1,0 +1,44 @@
+### adding new city
+POST http://localhost:8080/bonanza/city/Alexandria
+
+### adding new city
+POST http://localhost:8080/bonanza/city/Cairo
+
+### fetch all cites
+GET http://localhost:8080/bonanza/city
+
+### fetch city by name
+GET http://localhost:8080/bonanza/city/Alexandria
+
+### fetch by ID
+GET http://localhost:8080/bonanza/city/2
+
+############################################################################################################
+### add new district {cityId, district_name, longitude, latitude}.
+POST http://localhost:8080/bonanza/district/1/Manshya/2/2
+
+### add new district {cityId, district_name, longitude, latitude}.
+POST http://localhost:8080/bonanza/district/1/Mandra/1/1
+
+### add new district {cityId, district_name, longitude, latitude}.
+POST http://localhost:8080/bonanza/district/1/AbuKeer/4/4
+
+### fetch all districts
+GET http://localhost:8080/bonanza/bonanza/district
+
+### fetch district by Id
+GET http://localhost:8080/bonanza/bonanza/district
+
+##################################################################################
+### adding a new road {cityId, from_district_id, to_district_id}
+POST http://localhost:8080/bonanza/road/1/1/2
+
+### adding a new road {cityId, from_district_id, to_district_id}
+POST http://localhost:8080/bonanza/road/1/1/3
+
+### fetch all roads
+GET http://localhost:8080/bonanza/bonanza/road
+
+### Finding the road from (from -> to) {cityId}/{from_district_name}/{to_district_name}
+GET http://localhost:8080/bonanza/road/1/Manshya/AbuKeer
+
